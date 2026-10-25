@@ -1,0 +1,3 @@
+The Nova Reporting Service is used by the Finance team.
+The Nova Reporting Service is maintained by the Data Platform team.
+The Data Platform team is led by Marcus Lee.

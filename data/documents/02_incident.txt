@@ -1,0 +1,2 @@
+The Orion API Gateway had a latency incident in September.
+Platform Engineering resolved the incident by increasing gateway capacity.
